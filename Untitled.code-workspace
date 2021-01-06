@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../OtherResources/WesBos/JavaScript30-master/02 - JS and CSS Clock"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "02 - JS and CSS Clock"
+	}
+}
